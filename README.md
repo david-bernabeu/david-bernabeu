@@ -1,16 +1,15 @@
-## Hi there 👋
+# David Bernabeu
+**Data & AI & Platform Architecture | Software Engineer**
 
-<!--
-**david-bernabeu/david-bernabeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build scalable, production-grade systems with a strong focus on AI-driven platforms, distributed architectures, and long-term maintainability. My approach is rooted in first principles, deep analysis, and pragmatic execution.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Focus Areas
+- Design and development of data platforms in cloud environments
+- Event-driven and domain-driven design
+- Performance, scalability, and cost-efficient infrastructure
+- Developer experience, CI/CD, and automation
+- AI systems, RAG pipelines, and LLM-powered applications
+## 🔗 Contact
+- 📧 Email: davidbernabeuferrer@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/david-bernabeu-data-engineer/
+- 🌐 Website: https://dvddepennde.github.io/
